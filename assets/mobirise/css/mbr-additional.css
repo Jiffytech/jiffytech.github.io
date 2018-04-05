@@ -1834,6 +1834,8 @@ body {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
+  flex-direction: column-reverse;
+  -webkit-flex-direction: column-reverse;
 }
 .cid-qOm5xCpGgN .mbr-section-title {
   color: #2d404e;
